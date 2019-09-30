@@ -1,3 +1,3 @@
 def square_array(array)
-  # your code here
+  for i 0 ...
 end
